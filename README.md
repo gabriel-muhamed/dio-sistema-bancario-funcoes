@@ -13,7 +13,7 @@ O sistema permite realizar as seguintes operações:
 *   **Cria Conta**: Cria uma conta no sistema bancário.
 *   **Entrar com conta existente**: Entre no sistema bancário utilizando o CPF de uma conta existente.
 
-*   **Dentro da Conta**
+### Dentro da Conta
   *   **Depósito**: Adiciona um valor ao saldo da conta.
   *   **Saque**: Retira um valor do saldo da conta, com limites diários e de saldo disponível.
   *   **Extrato**: Mostra o histórico de transações e o saldo atual da conta.
